@@ -126,10 +126,10 @@ TextureImporter:
       name: Take Hit - white silhouette_0
       rect:
         serializedVersion: 2
-        x: 43
-        y: 32
-        width: 79
-        height: 81
+        x: 0
+        y: 0
+        width: 150
+        height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -147,10 +147,10 @@ TextureImporter:
       name: Take Hit - white silhouette_1
       rect:
         serializedVersion: 2
-        x: 183
-        y: 33
-        width: 80
-        height: 77
+        x: 150
+        y: 0
+        width: 150
+        height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,10 +168,10 @@ TextureImporter:
       name: Take Hit - white silhouette_2
       rect:
         serializedVersion: 2
-        x: 344
-        y: 31
-        width: 71
-        height: 85
+        x: 300
+        y: 0
+        width: 150
+        height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -189,10 +189,10 @@ TextureImporter:
       name: Take Hit - white silhouette_3
       rect:
         serializedVersion: 2
-        x: 490
-        y: 22
-        width: 63
-        height: 91
+        x: 450
+        y: 0
+        width: 150
+        height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
