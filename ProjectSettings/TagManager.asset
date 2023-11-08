@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Background
   layers:
   - Default
   - TransparentFX
@@ -40,6 +41,9 @@ TagManager:
   m_SortingLayers:
   - name: Background
     uniqueID: 1021354145
+    locked: 0
+  - name: Props
+    uniqueID: 3934357755
     locked: 0
   - name: Default
     uniqueID: 0
