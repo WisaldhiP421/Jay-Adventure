@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Background
+  - Stairs Right
+  - Stairs Left
+  - Path 1
+  - Path 2
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -41,11 +47,14 @@ TagManager:
   - name: Background
     uniqueID: 1021354145
     locked: 0
-  - name: Property
-    uniqueID: 2766650789
+  - name: Props
+    uniqueID: 3934357755
     locked: 0
   - name: Terrain
     uniqueID: 2765703655
+    locked: 0
+  - name: Enemy
+    uniqueID: 3312180089
     locked: 0
   - name: Default
     uniqueID: 0
